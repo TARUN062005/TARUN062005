@@ -1,13 +1,25 @@
-# 👨‍💻 Prince Tarun Vemuri
-**Full-Stack Developer | Cloud Engineer | Tech Enthusiast**  
-📍 Andhra Pradesh, India | 📧 princetarunvemuri@gmail.com | 📱 +91 9550186473  
+<div align="center">
+
+# 🚀 VEMURI PRINCE TARUN
+
+### **Full-Stack Developer | Cloud Engineer | Tech Enthusiast**  
+📍 Andhra Pradesh, India | 📧 princetarunvemuri@gmail.com  
 🌐 **[portfolio-tarun06.vercel.app](https://portfolio-tarun06.vercel.app/)**
 
-🎯 Passionate about building scalable web applications and innovative tech solutions.  
-🚀 Skilled in **React.js, Node.js, MongoDB, Java, and Salesforce** with hands-on project experience.  
-🌟 Quick learner, team player, and always eager to tackle new challenges in tech.
+</div>
 
 ---
+
+<div align="center">
+
+🎯 **Passionate about building scalable web applications and innovative tech solutions.**  
+🚀 **Skilled in React.js, Node.js, MongoDB, Java, and Salesforce with hands-on project experience.**  
+🌟 **Quick learner, team player, and always eager to tackle new challenges in tech.**
+
+</div>
+
+---
+
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarun%20Vemuri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarunvemuri)
