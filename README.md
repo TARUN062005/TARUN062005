@@ -1,118 +1,156 @@
-# Tarun Vemuri
+# 👨‍💻 VEMURI PRINCE TARUN
+**Full-Stack Developer | Cloud Engineer | Tech Enthusiast**  
+📍 Andhra Pradesh, India | 📧 princetarunvemuri@gmail.com | 📱 +91 9550186473  
+🌐 **[portfolio-tarun06.vercel.app](https://portfolio-tarun06.vercel.app/)**
 
-<p align="center">
-  <a href="https://portfolio-tarun06.vercel.app/">Live Portfolio</a> •
-  <a href="https://github.com/TARUN062005">GitHub</a> •
-  <a href="https://linkedin.com/in/tarunvemuri">LinkedIn</a>
-</p>
-
----
-
-## 👋 About Me
-
-**Full-Stack Developer** | **Cloud Enthusiast** | **Tech Explorer**
-📍 Andhra Pradesh • 📞 +91 9550186473 • ✉️ [princetarunvemuri@gmail.com](mailto:princetarunvemuri@gmail.com)
-
-Motivated B.Tech student passionate about building scalable web applications and Salesforce solutions. Skilled in React.js, Node.js, MongoDB, Java, and Salesforce with hands-on project experience. Quick learner, team player, and always eager to tackle new challenges in tech.
+🎯 Passionate about building scalable web applications and innovative tech solutions.  
+🚀 Skilled in **React.js, Node.js, MongoDB, Java, and Salesforce** with hands-on project experience.  
+🌟 Quick learner, team player, and always eager to tackle new challenges in tech.
 
 ---
 
-## 🌐 Quick Links
-
-* Portfolio: [https://portfolio-tarun06.vercel.app/](https://portfolio-tarun06.vercel.app/)
-* GitHub: [https://github.com/TARUN062005](https://github.com/TARUN062005)
-* LinkedIn: [https://linkedin.com/in/tarunvemuri](https://linkedin.com/in/tarunvemuri)
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarun%20Vemuri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarunvemuri)
+[![GitHub](https://img.shields.io/badge/GitHub-TARUN062005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TARUN062005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tarun06.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princetarunvemuri@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Runtime**
+### 📝 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `Java` · `Python`
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Frontend**
+### 🗄️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-`React` · `Next.js` · `Material UI` · `Bootstrap`
+### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Backend & APIs**
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-`Node.js` · `Express.js` · `Spring Boot`
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**Databases**
+---
 
-`MongoDB` · `MySQL` · `PostgreSQL` · `Oracle`
+## 📊 GitHub Statistics
 
-**Cloud & DevOps**
+<div align="center">
 
-`AWS` · `Azure` · `Vercel` · `Firebase`
+![](https://github-readme-stats.vercel.app/api?username=TARUN062005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-**Tools**
+![](https://github-readme-streak-stats.herokuapp.com/?user=TARUN062005&theme=radical&hide_border=false)
 
-`Git` · `GitHub` · `Postman` · `VS Code` · `Salesforce`
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TARUN062005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### College Assignment Management System
+### 📚 **College Assignment Management System**
+> AI-powered plagiarism detection & grading system with multi-user roles
+>
+> 🔗 **[View on GitHub](https://github.com/TARUN062005/JAVA-LBRCE-ASSIGNMENT)**
+>
+> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+> ![AI/ML](https://img.shields.io/badge/AI/ML-FF6B6B?style=flat-square&logo=python&logoColor=white)
 
-AI-powered plagiarism detection & grading system — Java + PostgreSQL.
-Repository: `TARUN062005/JAVA-LBRCE-ASSIGNMENT`
+### 👔 **HandsMen Threads CRM**
+> Salesforce CRM solution for luxury fashion brand with automated workflows
+>
+> 🔗 **[View on GitHub](https://github.com/TARUN062005/SALESFORCE-PROJECT.git)**
+>
+> ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+> ![Automation](https://img.shields.io/badge/Automation-4CAF50?style=flat-square&logo=automation&logoColor=white)
+> ![Dashboards](https://img.shields.io/badge/Dashboards-FF9800?style=flat-square&logo=chart-line&logoColor=white)
 
-### HandsMen Threads CRM
+### 🛠️ **ResolveNow Complaint System**
+> Full-stack complaint management platform with real-time chat
+>
+> 🔗 **[View on GitHub](https://github.com/TARUN062005/resolvenow-your-platform-for-online)**
+>
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-Salesforce CRM for a luxury fashion brand — automation and dashboards.
-Repository: `TARUN062005/SALESFORCE-PROJECT`
-
-### ResolveNow Complaint System
-
-Full-stack complaint management platform — React, Node.js, MongoDB.
-Repository: `TARUN062005/resolvenow-your-platform-for-online`
-
-### Personal Portfolio
-
-Modern responsive portfolio built with React and deployed on Vercel.
-Live: [https://portfolio-tarun06.vercel.app/](https://portfolio-tarun06.vercel.app/)
-
----
-
-## 🏅 Certifications
-
-* Salesforce Developer — Agent Blazer Campion (July 2025)
-* Full-Stack Developer — TheSmartBridge (July 2025)
-* Microsoft Azure Fundamentals (AZ-900) (June 2025)
-* Industrial Training — MSME-CITD (November 2023)
-
----
-
-## 🔬 Research Interests
-
-Cloud Computing (Kubernetes, Docker, AWS, Azure) · Machine Learning (Neural Networks, NLP)
-
----
-
-## 🎯 What I Bring
-
-* Strong fundamentals in full-stack development and system design
-* Hands-on experience with Salesforce automation and CRM workflows
-* Practical cloud exposure with deployment and CI/CD concepts
-* Collaborative mindset and willingness to learn new tools quickly
+### 🌐 **Personal Portfolio**
+> Modern, responsive portfolio website deployed on Vercel
+>
+> 🔗 **[Live Demo](https://portfolio-tarun06.vercel.app/)**
+>
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+> ![Responsive](https://img.shields.io/badge/Responsive-4CAF50?style=flat-square&logo=responsive&logoColor=white)
 
 ---
 
-## 🎭 Fun Facts
-
-* I like coding with music playing in the background
-* I enjoy reading tech blogs and exploring new frameworks
-* Coffee powers my late-night debugging sessions
-
-> "The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie
+## 📜 Certifications & Achievements
+- 🏆 **AWS Certified Cloud Practitioner** - CLF-C02 Certified (October 2025)
+- 🏆 **Salesforce Developer** - Agent Blazer Campion (July 2025)
+- 🏆 **Full-Stack Developer** - TheSmartBridge Certification (July 2025)
+- 🏆 **Microsoft Azure Fundamentals** - AZ-900 Certified (June 2025)
+- 🏆 **Industrial Training** - MSME-CITD Certification (November 2023)
 
 ---
 
-## ⚡ Want to collaborate?
+## 🎯 Currently Working On
+- 🌱 **Advanced Cloud Computing** - Deep diving into AWS & Azure services
+- 📚 **Machine Learning** - Studying neural networks and AI applications
+- 🛠️ **Building Scalable Web Applications** - Full-stack development projects
 
-Open to internships, freelance projects, and collaboration on cloud or Salesforce solutions. Reach out via email or LinkedIn — I usually respond quickly.
+---
 
-*This README was crafted for clarity and quick scanning by recruiters and contributors. If you want a compact one-page version for GitHub or a PDF export, tell me which format and I'll prepare it.*
+## 🎵 Hobbies & Interests
+- 📖 Reading tech blogs and research papers
+- 🎧 Listening to music while coding
+- 🔍 Researching emerging technologies
+- 💡 Exploring new frameworks and tools
+
+---
+
+## 💡 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 😄 Fun Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="400px" alt="Random Dev Meme"/>
+
+---
+
+<div align="center">
+
+### ⭐ **Thanks for visiting my profile!**
+#### 🔔 **Feel free to explore my repositories and star if you like them!**
+
+</div>
