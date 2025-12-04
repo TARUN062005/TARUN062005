@@ -157,13 +157,17 @@
 ---
 
 ## 💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Updated quote widget: shows a fresh horizontal developer quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=00d4ff&bg_color=0d1117" alt="Random Dev Quote" />
+</p>
 
 ---
 
 ## 😄 Dev Humor
+<!-- Updated jokes card: compact, themed to match the README -->
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&bgColor=0d1117&textColor=ffffff&qColor=00d4ff&aColor=00d4ff&borderColor=00d4ff" alt="Dev Jokes" />
 </p>
 
 ---
@@ -172,4 +176,4 @@
 
 ### ⭐ **Thanks for visiting my profile!**
 #### 🔔 **Feel free to explore my repositories and star if you like them!**
-
+</div>
