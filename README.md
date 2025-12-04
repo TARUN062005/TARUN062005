@@ -167,7 +167,7 @@
 ## 😄 Dev Humor
 <!-- Updated jokes card: compact, themed to match the README -->
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&bgColor=0d1117&textColor=ffffff&qColor=00d4ff&aColor=00d4ff&borderColor=00d4ff" alt="Dev Jokes" />
+  <img src="https://readme-jokes.vercel.app/api?type=horizontal&theme=radical&quote_color=00d4ff&bg_color=0d1117" alt="Jokes Card" />
 </p>
 
 ---
