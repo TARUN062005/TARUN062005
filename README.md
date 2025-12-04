@@ -10,7 +10,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 🎯 **Passionate about building scalable web applications and innovative tech solutions.**  
 🚀 **Skilled in React.js, Node.js, MongoDB, Java, and Salesforce with hands-on project experience.**  
@@ -126,11 +126,16 @@
 
 ---
 
-## 📜 Certifications & Achievements
-- 🏆 **Salesforce Developer** - Agent Blazer Campion (July 2025)
-- 🏆 **Full-Stack Developer** - TheSmartBridge Certification (July 2025)
-- 🏆 **Microsoft Azure Fundamentals** - AZ-900 Certified (June 2025)
-- 🏆 **Industrial Training** - MSME-CITD Certification (November 2023)
+<div align="center">
+
+| 🏅 | **Certification** | **Issuer** | **Date** |
+|----|------------------|------------|----------|
+| ✅ | Salesforce Developer (Agent Blazer Campion) | Salesforce | July 2025 |
+| ✅ | Full-Stack Developer Certification | TheSmartBridge | July 2025 |
+| ✅ | Microsoft Azure Fundamentals (AZ-900) | Microsoft | June 2025 |
+| ✅ | Industrial Training Certification | MSME-CITD | November 2023 |
+
+</div>
 
 ---
 
