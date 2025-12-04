@@ -1,6 +1,6 @@
 # 👨‍💻 VEMURI PRINCE TARUN
 **Full-Stack Developer | Cloud Engineer | Tech Enthusiast**  
-📍 Andhra Pradesh, India | 📧 princetarunvemuri@gmail.com | 📱 +91 9550186473  
+📍 Andhra Pradesh, India | 📧 princetarunvemuri@gmail.com |
 🌐 **[portfolio-tarun06.vercel.app](https://portfolio-tarun06.vercel.app/)**
 
 🎯 Passionate about building scalable web applications and innovative tech solutions.  
@@ -115,7 +115,6 @@
 ---
 
 ## 📜 Certifications & Achievements
-- 🏆 **AWS Certified Cloud Practitioner** - CLF-C02 Certified (October 2025)
 - 🏆 **Salesforce Developer** - Agent Blazer Campion (July 2025)
 - 🏆 **Full-Stack Developer** - TheSmartBridge Certification (July 2025)
 - 🏆 **Microsoft Azure Fundamentals** - AZ-900 Certified (June 2025)
@@ -124,6 +123,7 @@
 ---
 
 ## 🎯 Currently Working On
+- 🔭 **Concurrency & Distributed Systems** - Exploring advanced system design
 - 🌱 **Advanced Cloud Computing** - Deep diving into AWS & Azure services
 - 📚 **Machine Learning** - Studying neural networks and AI applications
 - 🛠️ **Building Scalable Web Applications** - Full-stack development projects
@@ -134,6 +134,7 @@
 - 📖 Reading tech blogs and research papers
 - 🎧 Listening to music while coding
 - 🔍 Researching emerging technologies
+- ☕ Coffee enthusiast
 - 💡 Exploring new frameworks and tools
 
 ---
@@ -143,8 +144,10 @@
 
 ---
 
-## 😄 Fun Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="400px" alt="Random Dev Meme"/>
+## 😄 Dev Humor
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</p>
 
 ---
 
@@ -153,4 +156,11 @@
 ### ⭐ **Thanks for visiting my profile!**
 #### 🔔 **Feel free to explore my repositories and star if you like them!**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TARUN062005&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
+
 </div>
+
+---
+*Last Updated: December 2024*
