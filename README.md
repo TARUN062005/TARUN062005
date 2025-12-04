@@ -76,11 +76,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=TARUN062005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=TARUN062005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="100%" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=TARUN062005&theme=radical&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TARUN062005&theme=radical&hide_border=false" width="100%" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TARUN062005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARUN062005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />
 
 </div>
 
