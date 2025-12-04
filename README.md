@@ -62,11 +62,11 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TARUN062005&show_icons=true&theme=radical&hide_border=true)
+![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TARUN062005&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TARUN062005&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TARUN062005&theme=great-gatsby&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TARUN062005&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TARUN062005&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
