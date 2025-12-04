@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🚀 VEMURI PRINCE TARUN
-
+# 🚀 ABOUT ME
+### **VEMURI PRINCE TARUN**
 ### **Full-Stack Developer | Cloud Engineer | Tech Enthusiast**  
-📍 Andhra Pradesh, India | 📧 princetarunvemuri@gmail.com  
+📍 Andhra Pradesh, India  |  📧 princetarunvemuri@gmail.com  
 🌐 **[portfolio-tarun06.vercel.app](https://portfolio-tarun06.vercel.app/)**
 
 </div>
