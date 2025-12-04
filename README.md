@@ -1,129 +1,171 @@
-💫 About Me:
-🔭 I'm currently working on Full-Stack Web Applications & Salesforce CRM Solutions
+# 👋 About Me
+💻 **Full-Stack Developer** | ☁️ **Cloud Enthusiast** | 🚀 **Tech Explorer**  
+📍 Andhra Pradesh | 📞 +91 9550186473 | ✉️ princetarunvemuri@gmail.com  
+🔗 **[My Portfolio](https://portfolio-tarun06.vercel.app/)**
 
-🌱 I'm currently learning Advanced Cloud Computing & Machine Learning
+🎯 **Motivated B.Tech student** passionate about building scalable web applications and Salesforce solutions.  
+🔧 Skilled in **React.js, Node.js, MongoDB, Java, and Salesforce** with hands-on project experience.  
+🌟 Quick learner, team player, and always eager to tackle new challenges in tech.
 
-📝 I regularly write articles on Web Development, Salesforce, and Cloud Technologies
+---
 
-💬 Ask me about React, JavaScript, TypeScript, Node.js, Java, Salesforce, MongoDB
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarun%20Vemuri-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarunvemuri)
+[![GitHub](https://img.shields.io/badge/GitHub-TARUN062005-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TARUN062005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tarun06.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princetarunvemuri@gmail.com)
 
-📫 How to reach me: princetarunvemuri@gmail.com
+---
 
-🔗 Portfolio: https://portfolio-tarun06.vercel.app/
+## 🛠️ Tech Stack
 
-⚡ Sometimes daydreaming helps to reach our goals
+### 💻 **Languages**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-🌐 Socials:
-https://img.shields.io/badge/LinkedIn-%25230077B5.svg?logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-%2523121011.svg?logo=github&logoColor=white
-https://img.shields.io/badge/Portfolio-%2523000000.svg?logo=vercel&logoColor=white
+### ⚛️ **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-💻 Tech Stack:
-Languages & Markup
-https://img.shields.io/badge/html5-%2523E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/css3-%25231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/javascript-%2523323330.svg?style=for-the-badge&logo=javascript&logoColor=%2523F7DF1E
-https://img.shields.io/badge/typescript-%2523007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/java-%2523ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+### 🗄️ **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-Frontend
-https://img.shields.io/badge/react-%252320232a.svg?style=for-the-badge&logo=react&logoColor=%252361DAFB
-https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
-https://img.shields.io/badge/material%2520ui-%25230081CB.svg?style=for-the-badge&logo=mui&logoColor=white
-https://img.shields.io/badge/bootstrap-%25238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
+### 🗃️ **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-Backend
-https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-https://img.shields.io/badge/express.js-%2523404d59.svg?style=for-the-badge&logo=express&logoColor=%252361DAFB
-https://img.shields.io/badge/spring%2520boot-%25236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-Databases
-https://img.shields.io/badge/MongoDB-%25234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/mysql-%252300f.svg?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/postgresql-%2523316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/oracle-%2523F00000.svg?style=for-the-badge&logo=oracle&logoColor=white
-https://img.shields.io/badge/prisma-%25232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white
+### 🛠️ **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-Cloud & Deployment
-https://img.shields.io/badge/AWS-%2523FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
-https://img.shields.io/badge/azure-%25230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white
-https://img.shields.io/badge/vercel-%2523000000.svg?style=for-the-badge&logo=vercel&logoColor=white
-https://img.shields.io/badge/firebase-%2523039BE5.svg?style=for-the-badge&logo=firebase
+---
 
-Tools & Platforms
-https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/github-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-https://img.shields.io/badge/vscode-%2523007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/cursor%2520ai-%2523000000.svg?style=for-the-badge&logo=cursor&logoColor=white
-https://img.shields.io/badge/salesforce-%252300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white
-https://img.shields.io/badge/figma-%2523F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
+## 📊 GitHub Stats
+<div align="center">
+  
+![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TARUN062005&show_icons=true&theme=radical&hide_border=true)
 
-Authentication & Security
-https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=json-web-tokens
-https://img.shields.io/badge/firebase%2520auth-%2523039BE5.svg?style=for-the-badge&logo=firebase
-https://img.shields.io/badge/clerk-%2523000000.svg?style=for-the-badge&logo=clerk&logoColor=white
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TARUN062005&theme=radical&hide_border=true)
 
-📊 GitHub Stats:
-https://github-readme-stats.vercel.app/api?username=TARUN062005&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TARUN062005&layout=compact&theme=radical&hide_border=true)
 
-https://github-readme-streak-stats.herokuapp.com/?user=TARUN062005&theme=great-gatsby&hide_border=false
+</div>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=TARUN062005&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact
+---
 
-📌 Featured Projects
-College Assignment Management System with AI Integration
-🔗 https://github.com/TARUN062005/JAVA-LBRCE-ASSIGNMENT
-A comprehensive college assignment management system with AI-powered plagiarism detection and grading.
+## 🚀 Featured Projects
 
-HandsMen Threads CRM Project
-🔗 https://github.com/TARUN062005/SALESFORCE-PROJECT.git
-Custom Salesforce CRM solution for a luxury men's fashion brand with automated workflows and dashboards.
+### 🎓 **College Assignment Management System**
+> AI-powered plagiarism detection & grading system
+> 
+> 🔗 **[View Project](https://github.com/TARUN062005/JAVA-LBRCE-ASSIGNMENT)**
+> 
+> ![Java](https://img.shields.io/badge/Java-✓-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-✓-blue) ![AI/ML](https://img.shields.io/badge/AI/ML-✓-green)
 
-ResloveNow: Online Complaint Management
-🔗 https://github.com/TARUN062005/resolvenow-your-platform-for-online
-Full-stack web application for customer complaint handling with role-based dashboards and real-time chat.
+### 👔 **HandsMen Threads CRM**
+> Salesforce CRM for luxury fashion brand
+> 
+> 🔗 **[View Project](https://github.com/TARUN062005/SALESFORCE-PROJECT.git)**
+> 
+> ![Salesforce](https://img.shields.io/badge/Salesforce-✓-blue) ![Automation](https://img.shields.io/badge/Automation-✓-green) ![Dashboards](https://img.shields.io/badge/Dashboards-✓-orange)
 
-Minimalist Personal Portfolio
-🔗 https://portfolio-tarun06.vercel.app/
-Sleek interactive portfolio showcasing skills, certifications, and projects with responsive design.
+### 🛠️ **ResolveNow Complaint System**
+> Full-stack complaint management platform
+> 
+> 🔗 **[View Project](https://github.com/TARUN062005/resolvenow-your-platform-for-online)**
+> 
+> ![React](https://img.shields.io/badge/React-✓-blue) ![Node.js](https://img.shields.io/badge/Node.js-✓-green) ![MongoDB](https://img.shields.io/badge/MongoDB-✓-orange)
 
-🏆 Certifications
-Salesforce Developer - Certified Salesforce Developer and Agent Blazer Campion (July 2025)
+### 🌐 **Personal Portfolio**
+> Modern, responsive portfolio website
+> 
+> 🔗 **[Live Demo](https://portfolio-tarun06.vercel.app/)**
+> 
+> ![React](https://img.shields.io/badge/React-✓-blue) ![Vercel](https://img.shields.io/badge/Vercel-✓-black) ![Responsive](https://img.shields.io/badge/Responsive-✓-green)
 
-Full-Stack Developer - TheSmartBridge (July 2025)
+---
 
-Microsoft Azure Fundamentals (AZ-900) (June 2025)
+## 📜 Certifications
+- 🏅 **Salesforce Developer** - Agent Blazer Campion (July 2025)
+- 🏅 **Full-Stack Developer** - TheSmartBridge (July 2025)
+- 🏅 **Microsoft Azure Fundamentals (AZ-900)** (June 2025)
+- 🏅 **Industrial Training** - MSME-CITD (November 2023)
 
-Industrial Training - Central Institute of Tool And Design (November 2023)
+---
 
-🔬 Research Interests
-Cloud Computing: Virtualization, Kubernetes, Docker, AWS, Azure
+## 📚 Education
+- **B.Tech in Computer Science**  
+  Lakireddy Bali Reddy College of Engineering (2024-Present)  
+  CGPA: 9.05
 
-Machine Learning: Neural Networks, NLP, Model Optimization
+- **Diploma in Computer Engineering**  
+  AANM & VVRSR Polytechnic (2021-2023)  
+  Percentage: 93.67%
 
-🗣️ Languages
-English: ★★★★☆
+---
 
-Telugu: ★★★★★
+## 💼 Experience
+- **Salesforce Developer Intern** @ TheSmartBridge (May-July 2025)
+- **Full Stack Developer Intern** @ TheSmartBridge (May-June 2025)
+- **Industrial Trainee** @ MSME-CITD (June-Nov 2022)
 
-Hindi: ★★★☆☆
+---
 
-🎯 Hobbies
-Reading
+## 🌟 Research Interests
+- **Cloud Computing** - Kubernetes, Docker, AWS, Azure
+- **Machine Learning** - Neural Networks, NLP, AI Applications
 
-Listening to Music
+---
 
-Researching New Technologies
+## 🗣️ Languages
+- **English** - Professional Proficiency
+- **Telugu** - Native Speaker
+- **Hindi** - Conversational
 
-✍️ Random Dev Quote
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko
+---
 
-😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-https://visitcount.itsvg.in/api?id=TARUN062005&icon=0&color=0
+## 🎯 Fun Facts
+- 🎵 Love listening to music while coding
+- 📚 Enjoy reading tech blogs and research papers
+- 🔍 Always researching new technologies
+- ☕ Coffee fuels my coding sessions
 
-💰 You can help me by Donating
-https://img.shields.io/badge/Buy%2520Me%2520a%2520Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
-https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
+---
+
+## 🎭 Random Dev Quote
+> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+
+---
+
+<div align="center">
+
+### ⭐ Feel free to explore my repositories and contribute!
+#### 🔔 Star my projects if you find them interesting!
+
+[![Visitors](https://komarev.com/ghpvc/?username=TARUN062005&color=blue&style=flat-square)](https://github.com/TARUN062005)
+[![GitHub followers](https://img.shields.io/github/followers/TARUN062005?style=social)](https://github.com/TARUN062005)
+
+</div>
+
+---
+
+*✨ This README is updated automatically with my latest projects and stats! ✨*
