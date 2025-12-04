@@ -140,7 +140,6 @@
 ---
 
 ## 🎯 Currently Working On
-- 🔭 **Concurrency & Distributed Systems** - Exploring advanced system design
 - 🌱 **Advanced Cloud Computing** - Deep diving into AWS & Azure services
 - 📚 **Machine Learning** - Studying neural networks and AI applications
 - 🛠️ **Building Scalable Web Applications** - Full-stack development projects
