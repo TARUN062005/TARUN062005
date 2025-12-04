@@ -92,7 +92,8 @@
 > AI-powered plagiarism detection & grading system with multi-user roles
 >
 > 🔗 **[View on GitHub](https://github.com/TARUN062005/JAVA-LBRCE-ASSIGNMENT)**
->
+> 🔗 **[Live Demo](https://java-lbrce-assignment.onrender.com/)**
+> 
 > ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 > ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 > ![AI/ML](https://img.shields.io/badge/AI/ML-FF6B6B?style=flat-square&logo=python&logoColor=white)
