@@ -4,7 +4,7 @@
 ### **VEMURI PRINCE TARUN**
 ### **Full-Stack Developer | Cloud Engineer | Tech Enthusiast**  
 📍 Andhra Pradesh, India  |  📧 princetarunvemuri@gmail.com  
-🌐 **[portfolio-tarun06.vercel.app](https://tarun-vemuri.vercel.app/)**
+🌐 **[Portfolio](https://tarun-vemuri.vercel.app/)**
 
 </div>
 
